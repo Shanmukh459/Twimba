@@ -19,12 +19,15 @@
 ## Screenshots of the app
 
 - Basic page with pre populated tweets
+
 ![image](https://github.com/Shanmukh459/Twimba/assets/52078988/4e5d5ea7-0668-41ce-8af7-1889e2a1544d)
 
 - Screen when a tweet is liked and retweeted (including the count increment)
+
 ![image](https://github.com/Shanmukh459/Twimba/assets/52078988/13dedfeb-9959-499e-b328-f67b07fe5e7d)
 
 - Screen when comments button is clicked
+
 ![image](https://github.com/Shanmukh459/Twimba/assets/52078988/2f062e79-827c-4aa9-9437-75199f53ea89)
 
 
